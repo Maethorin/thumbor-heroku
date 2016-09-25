@@ -1,2 +1,2 @@
 alembic
-pgthumbor==0.0.5
+pgthumbor==0.0.6
