@@ -1,3 +1,2 @@
-thumbor
-redis
-tc_redis
+alembic
+pgthumbor
